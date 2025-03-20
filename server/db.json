@@ -1,0 +1,325 @@
+{
+  "users": [],
+  "orders": [
+    {
+      "transactionId": "10472",
+      "date": "26.08.2023",
+      "status": "Pending",
+      "gameName": "Cyber Clash",
+      "gameId": 1808661471,
+      "amount": "$100.52",
+      "details": {
+        "goods": 3,
+        "count": "56.100",
+        "income": "+2540.9",
+        "price": "$192.51",
+        "oldPrice": "$557.40"
+      },
+      "id": "480f"
+    },
+    {
+      "transactionId": "24186",
+      "date": "25.07.2023",
+      "status": "Canceled",
+      "gameName": "Ancient Wars",
+      "gameId": 3982852632,
+      "amount": "$251.21",
+      "details": {
+        "goods": 4,
+        "count": "99.300",
+        "income": "+3556.8",
+        "price": "$370.57",
+        "oldPrice": "$509.20"
+      },
+      "id": "6204"
+    },
+    {
+      "transactionId": "96314",
+      "date": "15.11.2023",
+      "status": "Success",
+      "gameName": "Ernardd",
+      "gameId": 8133544822,
+      "amount": "$193.42",
+      "details": {
+        "goods": 2,
+        "count": "79.800",
+        "income": "+3558.3",
+        "price": "$414.69",
+        "oldPrice": "$562.29"
+      },
+      "id": "f08a"
+    },
+    {
+      "transactionId": "10593",
+      "date": "15.03.2023",
+      "status": "Pending",
+      "gameName": "Ancient Wars",
+      "gameId": 9049873494,
+      "amount": "$461.87",
+      "details": {
+        "goods": 2,
+        "count": "46.600",
+        "income": "+831.2",
+        "price": "$212.82",
+        "oldPrice": "$659.43"
+      },
+      "id": "6d72"
+    },
+    {
+      "transactionId": "34282",
+      "date": "06.09.2023",
+      "status": "Pending",
+      "gameName": "Ernardd",
+      "gameId": 3008218655,
+      "amount": "$485.03",
+      "details": {
+        "goods": 1,
+        "count": "82.300",
+        "income": "+2477.4",
+        "price": "$246.90",
+        "oldPrice": "$696.51"
+      },
+      "id": "fd10"
+    },
+    {
+      "transactionId": "48485",
+      "date": "14.09.2024",
+      "status": "Pending",
+      "gameName": "Ancient Wars",
+      "gameId": 4941331723,
+      "amount": "$137.75",
+      "details": {
+        "goods": 4,
+        "count": "35.400",
+        "income": "+710.9",
+        "price": "$154.92",
+        "oldPrice": "$953.16"
+      },
+      "id": "91bc"
+    },
+    {
+      "transactionId": "74406",
+      "date": "20.05.2024",
+      "status": "Pending",
+      "gameName": "Shadow Realm",
+      "gameId": 5697087487,
+      "amount": "$403.07",
+      "details": {
+        "goods": 5,
+        "count": "58.200",
+        "income": "+4630.1",
+        "price": "$324.05",
+        "oldPrice": "$529.06"
+      },
+      "id": "9642"
+    },
+    {
+      "transactionId": "29790",
+      "date": "18.06.2024",
+      "status": "Pending",
+      "gameName": "Mystica",
+      "gameId": 4796082317,
+      "amount": "$74.92",
+      "details": {
+        "goods": 3,
+        "count": "58.500",
+        "income": "+3383.3",
+        "price": "$287.25",
+        "oldPrice": "$613.87"
+      },
+      "id": "e4c2"
+    },
+    {
+      "transactionId": "83197",
+      "date": "09.07.2024",
+      "status": "Canceled",
+      "gameName": "Mystica",
+      "gameId": 8426355300,
+      "amount": "$467.09",
+      "details": {
+        "goods": 3,
+        "count": "58.800",
+        "income": "+4670.7",
+        "price": "$434.33",
+        "oldPrice": "$976.65"
+      },
+      "id": "72f5"
+    },
+    {
+      "transactionId": "62673",
+      "date": "14.03.2023",
+      "status": "Canceled",
+      "gameName": "Shadow Realm",
+      "gameId": 7429388981,
+      "amount": "$125.37",
+      "details": {
+        "goods": 2,
+        "count": "13.800",
+        "income": "+4572.2",
+        "price": "$163.52",
+        "oldPrice": "$782.69"
+      },
+      "id": "13bb"
+    },
+    {
+      "transactionId": "47458",
+      "date": "23.10.2023",
+      "status": "Pending",
+      "gameName": "Mystica",
+      "gameId": 6415334859,
+      "amount": "$311.20",
+      "details": {
+        "goods": 2,
+        "count": "40.400",
+        "income": "+4865.0",
+        "price": "$433.91",
+        "oldPrice": "$664.92"
+      },
+      "id": "c92b"
+    },
+    {
+      "transactionId": "27629",
+      "date": "27.07.2023",
+      "status": "Success",
+      "gameName": "Shadow Realm",
+      "gameId": 7296513219,
+      "amount": "$116.88",
+      "details": {
+        "goods": 2,
+        "count": "39.400",
+        "income": "+2626.2",
+        "price": "$459.92",
+        "oldPrice": "$885.71"
+      },
+      "id": "575c"
+    },
+    {
+      "transactionId": "25473",
+      "date": "25.07.2024",
+      "status": "Canceled",
+      "gameName": "Ancient Wars",
+      "gameId": 5152130516,
+      "amount": "$332.19",
+      "details": {
+        "goods": 5,
+        "count": "31.800",
+        "income": "+2674.5",
+        "price": "$272.04",
+        "oldPrice": "$783.75"
+      },
+      "id": "ae73"
+    },
+    {
+      "transactionId": "72944",
+      "date": "14.01.2023",
+      "status": "Canceled",
+      "gameName": "Ancient Wars",
+      "gameId": 1304516464,
+      "amount": "$485.38",
+      "details": {
+        "goods": 4,
+        "count": "36.900",
+        "income": "+1962.3",
+        "price": "$431.27",
+        "oldPrice": "$869.28"
+      },
+      "id": "5250"
+    },
+    {
+      "transactionId": "67009",
+      "date": "04.10.2023",
+      "status": "Success",
+      "gameName": "Ancient Wars",
+      "gameId": 9015567855,
+      "amount": "$350.04",
+      "details": {
+        "goods": 1,
+        "count": "45.900",
+        "income": "+4470.4",
+        "price": "$474.69",
+        "oldPrice": "$881.72"
+      },
+      "id": "29f9"
+    },
+    {
+      "transactionId": "12473",
+      "date": "05.04.2023",
+      "status": "Pending",
+      "gameName": "Mystica",
+      "gameId": 1096077096,
+      "amount": "$290.30",
+      "details": {
+        "goods": 3,
+        "count": "42.500",
+        "income": "+2626.2",
+        "price": "$238.68",
+        "oldPrice": "$847.90"
+      },
+      "id": "cfb2"
+    },
+    {
+      "transactionId": "23593",
+      "date": "28.10.2024",
+      "status": "Canceled",
+      "gameName": "Shadow Realm",
+      "gameId": 5205437013,
+      "amount": "$114.91",
+      "details": {
+        "goods": 4,
+        "count": "11.500",
+        "income": "+3853.0",
+        "price": "$195.60",
+        "oldPrice": "$741.73"
+      },
+      "id": "e60e"
+    },
+    {
+      "transactionId": "23242",
+      "date": "03.01.2024",
+      "status": "Pending",
+      "gameName": "Cyber Clash",
+      "gameId": 3537420014,
+      "amount": "$308.00",
+      "details": {
+        "goods": 5,
+        "count": "36.100",
+        "income": "+1456.9",
+        "price": "$223.23",
+        "oldPrice": "$592.49"
+      },
+      "id": "adbe"
+    },
+    {
+      "transactionId": "76314",
+      "date": "01.12.2023",
+      "status": "Pending",
+      "gameName": "Cyber Clash",
+      "gameId": 1900031034,
+      "amount": "$422.07",
+      "details": {
+        "goods": 4,
+        "count": "62.100",
+        "income": "+3978.9",
+        "price": "$147.12",
+        "oldPrice": "$609.12"
+      },
+      "id": "3630"
+    },
+    {
+      "transactionId": "45595",
+      "date": "27.04.2024",
+      "status": "Canceled",
+      "gameName": "Mystica",
+      "gameId": 7749718314,
+      "amount": "$374.61",
+      "details": {
+        "goods": 2,
+        "count": "76.400",
+        "income": "+1973.0",
+        "price": "$393.61",
+        "oldPrice": "$564.99"
+      },
+      "id": "f5d1"
+    }
+  ]
+}

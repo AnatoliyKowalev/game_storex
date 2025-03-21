@@ -23,6 +23,7 @@ const resources = {
       dark: "Dark",
       system: "system",
       logout: "Logout",
+      goHome: "Go home",
     },
   },
   ua: {
@@ -43,6 +44,7 @@ const resources = {
       dark: "Темна",
       system: "Системна",
       logout: "Вийти",
+      goHome: "На головну",
     },
   },
 };

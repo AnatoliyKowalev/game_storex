@@ -4,10 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "server": "npx json-server ./server/db.json",
-    "dev-start": "concurrently \"npm run dev-server\" \"npm run dev-start\"",
-    "dev-server": "json-server -w server/db.json -p 4001",
+    "start": "vite",
+    "dev": "concurrently \"npm run server\" \"npm run start\"",
+    "server": "json-server -w server/db.json -p 4001",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"

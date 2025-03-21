@@ -8,7 +8,7 @@ const AppLayout: FC<PropsWithChildren> = ({ children }) => {
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
       <Header />
       <div className="app-layout bg-primary relative h-full w-full">
-        <div className="md:max-w-[600px] mx-auto h-full w-full flex flex-col p-[12px] overflow-y-auto">
+        <div className="md:max-w-[600px] mx-auto h-full w-full flex flex-col p-[12px] overflow-y-auto overflow-x-hidden">
           {children}
         </div>
       </div>

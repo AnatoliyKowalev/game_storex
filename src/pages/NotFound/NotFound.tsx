@@ -21,7 +21,7 @@ const NotFound: FC = () => {
             className="inline-block mx-1"
             initial={{ y: 0, x: 0, rotate: 0 }}
             animate={{
-              y: [0, -20, 0],
+              y: [0, -21, 0],
               x: [0, 10, -10, 0],
               rotate: [0, 5, -5, 0],
             }}

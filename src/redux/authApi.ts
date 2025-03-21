@@ -1,6 +1,5 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 import { clearUser, setUser } from "./slices/userSlice";
-import { toast } from "sonner";
 
 export const authApi = createApi({
   reducerPath: "authApi",
